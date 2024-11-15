@@ -9,3 +9,7 @@ Sou Adriano dos Santos, desenvolvedor full stack apaixonado por tecnologia, mús
 - **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-orange?logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bumpy131&show_icons=true&theme=radical)
+
+
+### 📫 Contato
+- [Email](mailto:adriano_silva131@outlook.com)
