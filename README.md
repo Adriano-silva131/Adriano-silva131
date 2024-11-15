@@ -8,4 +8,4 @@ Sou Adriano dos Santos, desenvolvedor full stack apaixonado por tecnologia, mús
 - **Frameworks:** ![React](https://img.shields.io/badge/-React-blue?logo=react) ![Django](https://img.shields.io/badge/-Django-green?logo=django) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
 - **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-orange?logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Bumpy131=Bumpy131&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bumpy131&show_icons=true&theme=radical)
