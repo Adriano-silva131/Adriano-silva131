@@ -57,4 +57,4 @@ Backend-focused Software Engineer building production systems with Java/Spring B
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adriano-silva131&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Adriano-silva131&theme=radical&hide_border=true)
