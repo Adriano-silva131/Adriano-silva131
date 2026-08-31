@@ -47,7 +47,7 @@ Backend-focused Software Engineer building production systems with Java/Spring B
 **[Order Hub](https://github.com/Adriano-silva131/order-hub)** — Event-driven order management system
 > Java 21 · Spring Boot 3 · Kafka · Resilience4j (Circuit Breaker + Retry) · Prometheus/Grafana · Testcontainers · GitHub Actions
 
-**[Efficiency Time](https://github.com/Adriano-silva131/Efficiency-Time)** — Productivity web app (PWA in production)
+**[Efficiency Time](https://efficiencytime.com)** — Productivity web app (PWA in production)
 > React 18 · PHP/Laravel · Redis · AWS (EC2, S3, ECR) · Docker · Nginx · GitHub Actions
 
 ---
